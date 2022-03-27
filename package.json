@@ -1,0 +1,5 @@
+{
+  "main": "src/index.js",
+  "name": "@jsplumb/docusaurus-plugin-env-loader-json",
+  "version": "1.0.0"
+}
